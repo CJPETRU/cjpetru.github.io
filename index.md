@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Página de proyectos del alumno Alan Brito
+title: Página de proyectos del alumno CORRADO PETRUZZELLA
 ---
 
 
-# Página de proyectos del alumno Alan Brito
+# Página de proyectos del alumno CORRADO PETRUZZELLA
 Bienvenidos a mi página de proyectos, este es mi espacio personal donde publicaré mis proyectos de informática.
 
 ## ¿Quién soy? 
